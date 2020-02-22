@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Prct005_InterfaceDoUtilizador'
